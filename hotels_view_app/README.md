@@ -1,19 +1,25 @@
 Home Page:
- ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/0309dc3b-d73e-4872-a6d2-95c4e41911d7)
- ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/474e4d61-a398-4293-88d5-1edc93b77d7d)
+![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/91885dd7-e53e-471e-93aa-07ddd3520e29)
+
+![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/53ffc5d7-b955-4640-8c96-b97a2b336782)
+
 
 Show More:
- ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/5d3e20d6-1df3-4018-8d8c-cb8a0642d6ea)
+![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/f109aad0-6bb0-4c03-9f67-8be8fd291b6a)
+
 
 Various City:
 Mumbai:
- ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/6bc4c7d3-6acf-459a-941c-047c3f7c8691)
+![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/d05f61f6-2ba8-488e-8dfd-728689c9bd44)
+
 
 Paris:
- ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/1bd5275d-411d-40d1-b04d-0ecb88b59cf8)
+![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/617de696-8096-4acd-b8fa-636ba66d8f30)
+
 
 London:
- ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/ec533f06-abca-4f80-aa13-6d0f1ca4397f)
+![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/7326884c-9096-4ee2-87a2-b7d8973d2c26)
+
 
 Single hotel details:
  ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/ec456fd0-befb-48c7-8d67-5b57545d1421)
