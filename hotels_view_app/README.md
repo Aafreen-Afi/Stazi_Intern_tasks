@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+Home Page:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/0309dc3b-d73e-4872-a6d2-95c4e41911d7)
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/474e4d61-a398-4293-88d5-1edc93b77d7d)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Show More:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/5d3e20d6-1df3-4018-8d8c-cb8a0642d6ea)
 
-## Available Scripts
+Various City:
+Mumbai:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/6bc4c7d3-6acf-459a-941c-047c3f7c8691)
 
-In the project directory, you can run:
+Paris:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/1bd5275d-411d-40d1-b04d-0ecb88b59cf8)
 
-### `npm start`
+London:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/ec533f06-abca-4f80-aa13-6d0f1ca4397f)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Single hotel details:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/ec456fd0-befb-48c7-8d67-5b57545d1421)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
