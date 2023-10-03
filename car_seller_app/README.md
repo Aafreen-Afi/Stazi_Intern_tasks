@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+Home Page:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/1d3294f0-6795-48fe-8c9d-b474e9b54a3b)
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/15c7b615-0003-4e34-809d-bde61f0b24d7)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Search function:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/cfb4c061-7053-4152-afe1-768040484e31)
 
-## Available Scripts
+Single Car details
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/77057226-4f0a-4842-98a7-1f050a19467e)
 
-In the project directory, you can run:
+Pagination Function:
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/14673bd5-fc26-40bf-b0e9-cd3cbb7c6b69)
+ ![image](https://github.com/Aafreen-Afi/Stazi_Intern_tasks/assets/137905884/ba4ae37b-7cdb-4128-8ea0-bb0b5d704bc7)
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
