@@ -1,0 +1,87 @@
+.card {
+  padding: 0.5rem;
+  background: #f2f6fc;
+  width: 18rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.car-image {
+  width: 18rem;
+  height: 14rem;
+  border-radius: 1rem;
+  margin: auto;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 2rem;
+  margin-top: -10px;
+}
+
+.car-name {
+  font-weight: 600;
+  font-size: larger;
+}
+
+.car-year {
+  font-weight: 500;
+  font-size: large;
+  border-color: black;
+}
+
+.card-mid {
+  margin-top: 1rem;
+}
+
+.card-header-mid {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 1.5rem;
+}
+
+.card-header-mid span {
+  color: #0080ff;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  border-top-color: black;
+  border-top-style: solid;
+  border-top-width: 1px;
+  margin-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.card-footer-right {
+  display: flex;
+}
+
+.card-footer span {
+  font-size: smaller;
+}
+
+.card-footer-right button {
+  background-color: #499aed;
+  color: white;
+  border-radius: 0.5rem;
+  width: 5.5rem;
+  height: 2rem;
+  margin-top: 0.7rem;
+  cursor: pointer;
+  border: none;
+}
+
+.heart-icon {
+  margin-top: 1.2rem;
+  margin-right: 1rem;
+  color: #0080ff;
+}

@@ -1,0 +1,123 @@
+.card {
+  padding: 0.5rem;
+  background: #f2f6fc;
+  width: 18rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.image-top{
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-top: 10px;
+  width: 18rem;
+}
+
+.image-top-left{
+  margin-left: 1rem;
+  width: 4.5rem;
+  height: 1.8rem;
+  border-radius: 1rem;
+  background-color: white;
+  color: #080cf2;
+  font-size: small;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.image-top-right{
+  margin-right: 1rem;
+  width: 2rem;
+  border-radius: 50%;
+  background-color: white;
+  color: #080cf2;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hotel-image {
+  width: 18rem;
+  height: 14rem;
+  border-radius: 1rem;
+  margin: auto;
+}
+
+.hotel-address {
+  color: brown;
+}
+
+.hotel-address span {
+  color: black;
+}
+
+.hotel-address {
+  margin-left: 1rem;
+  font-size: smaller;
+}
+
+.card-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 2rem;
+  margin-top: -10px;
+  font-size: small;
+}
+
+.hotel-name {
+  font-weight: 600;
+  font-size: larger;
+}
+
+.card-mid {
+  margin-top: 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-sub-mid {
+  display: flex;
+  flex-direction: column;
+  font-size: small;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  border-top-color: black;
+  border-top-style: solid;
+  border-top-width: 1px;
+  margin-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.card-footer-right button {
+  background-color: white;
+  color: #080cf2;
+  border-color: #080cf2;
+  border-radius: 2rem;
+  width: 5.5rem;
+  height: 2rem;
+  margin-top: 0.7rem;
+  cursor: pointer;
+  font-weight: bold;
+  border: 1px solid;
+}
+
+.card-footer-left span {
+  font-size: smaller;
+  color: black;
+}
+
+.card-footer-left p {
+  color: #080cf2;
+}
